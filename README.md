@@ -1,0 +1,1 @@
+# js_dz6_GeomProgression
